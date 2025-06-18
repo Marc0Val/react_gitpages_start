@@ -7,16 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Pérez Trujillo Víctor Hugo
+          Marco Antonio Reyes Valdez ye
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* nyan cat gif */}
+        <img src="https://tenor.com/es/view/cat-space-nyan-cat-gif-22656380" alt="Nyan Cat" />
       </header>
     </div>
   );
